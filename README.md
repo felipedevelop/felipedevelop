@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Felipe Ortiz</h1>
-<h3 align="center">Analista programador del departamento de TI en La Junta Nacional de Cuerpos de Bomberos</h3>
+<h3 align="center">Analista programador en el departamento de TI de La Junta Nacional de Cuerpos de Bomberos</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipedevelop&label=Profile%20views&color=0e75b6&style=flat" alt="felipedevelop" /> </p>
 
